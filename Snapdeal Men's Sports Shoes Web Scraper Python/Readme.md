@@ -86,6 +86,4 @@ Open `snapdeal_scraper.ipynb` and run the cells from top to bottom. The scraper 
 - Schedule the scraper to track price changes over time
 
 ## Author
-
-**<Your Name>**
-GitHub: [@<your-username>](https://github.com/<your-username>)
+Mansi Bhor
